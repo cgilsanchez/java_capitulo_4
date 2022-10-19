@@ -15,15 +15,15 @@ public class Ejercicio8{
         
         
         if (nota>=1 && nota<5) {
-            System.out.print("Insuficiente");
+            System.out.print(" Insuficiente");
         }else if (nota==5){
-            System.out.print("Suficente");
+            System.out.print(" Suficente");
         } else if (nota==6){
-            System.out.print("Bien");
+            System.out.print(" Bien");
         } else if (nota>=7 && nota<9){
-            System.out.print("Notable");
+            System.out.print(" Notable");
         } else if (nota>=9 && nota<=10){
-            System.out.print("Sobresaliente");
+            System.out.print(" Sobresaliente");
         }else if (nota>10) {
         System.out.print("Esa nmedia no esta definida");
         }
