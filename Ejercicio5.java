@@ -8,5 +8,6 @@ public class Ejercicio5{
         System.out.print("Introduzca el valor de b:  ");
         float b = sc.nextFloat();
         System.out.println("El valor de x es " + (-b/a));
+        sc.close();
     }
 }

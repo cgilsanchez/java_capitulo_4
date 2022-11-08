@@ -28,6 +28,6 @@ public class Ejercicio8{
         System.out.print("Esa nmedia no esta definida");
         }
         
-        
+        sc.close();
     }
 }

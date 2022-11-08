@@ -31,7 +31,7 @@ public class Ejercicio3 {
             System.out.print("No es un numero del 1 al 7");
         }
             
-
+        sc.close();
     }
     
 }
